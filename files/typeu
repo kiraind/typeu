@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/node /usr/etc/typeu.js $1

@@ -1,0 +1,29 @@
+{
+  "name": "typeu",
+  "version": "1.0.0",
+  "description": "Utility for creating unicode character shortcuts in Ubuntu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "chmod +x deploy.sh; ./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiraind/typeu.git"
+  },
+  "keywords": [
+    "unicode",
+    "ubuntu",
+    "elementaryos",
+    "shortcut"
+  ],
+  "author": "kiraind",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kiraind/typeu/issues"
+  },
+  "homepage": "https://github.com/kiraind/typeu#readme",
+  "dependencies": {
+    "robotjs": "^0.4.7"
+  }
+}

@@ -10,7 +10,7 @@ $ npm run deploy
 ```
 
 ## Usage
-To type a unicode character use `$ typeu <code>` E.g.
+To type a unicode character use `$ typeu <code>`
 
 ```
 $ typeu 20bd # -> ₽
